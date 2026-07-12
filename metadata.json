@@ -1,0 +1,6 @@
+{
+  "name": "India Highway Pathfinder Workstation",
+  "description": "Interactive visualizer simulating route optimization and pathfinding across India's Golden Quadrilateral and national highway networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
